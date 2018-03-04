@@ -1,0 +1,37 @@
+.btn{
+  cursor: pointer;
+  background-color: $color-white;
+  padding: 12px 15px;
+  border: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: $color-black;
+  font-size: 14px;
+  font-family: $bold;
+  @include shift(all, .3s, ease);
+  &:active, &:focus{
+    outline: none;
+  }
+}
+.btn-dark{
+  background-color: $color-dark-blue;
+  color: $color-white;
+  @include box-shadow(0, 10px, 10px, rgba(0, 59, 116, 0.5));
+}
+.btn-orange{
+  background-color: $color-orange;
+  color: $color-white;
+  @include box-shadow(0, 10px, 10px, rgba(230, 167, 77, 0.5));
+  &:hover{
+    background-color: $color-dark-blue;
+    color: $color-white;
+    @include box-shadow(0, 10px, 10px, rgba(0, 59, 116, 0.5));
+  }
+}
+.btn-icon{
+  top: 0;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  border: none;
+}

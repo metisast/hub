@@ -1,0 +1,19 @@
+.post-tiny{
+
+}
+.post-tiny__item{
+  margin-bottom: 30px;
+  time{
+    color: $color-blue;
+    margin-bottom: 12px;
+    img{
+      display: inline-block;
+      top: 1px;
+      margin-right: 5px;
+      position: relative;
+    }
+  }
+  p{
+    color: $color-black;
+  }
+}

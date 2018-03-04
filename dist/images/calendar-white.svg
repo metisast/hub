@@ -1,0 +1,52 @@
+<svg width="14" height="15" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1454 243)">
+<g id="Group">
+<g id="Canvas">
+<g id="calendar 1">
+<g id="Rectangle 55">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(1454 -240.864)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Line">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(1457.5 -242.136)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Line Copy">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(1463.23 -242.136)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Oval 25 Copy">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(1460.05 -236.409)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Oval 25 Copy 2">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(1463.55 -236.409)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Oval 25 Copy 5">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(1456.55 -232.909)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Oval 25 Copy 4">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(1460.05 -232.909)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 1.59091 1.27273L 12.4091 1.27273L 12.4091 0L 1.59091 0L 1.59091 1.27273ZM 12.7273 1.59091L 12.7273 11.1364L 14 11.1364L 14 1.59091L 12.7273 1.59091ZM 12.4091 11.4545L 1.59091 11.4545L 1.59091 12.7273L 12.4091 12.7273L 12.4091 11.4545ZM 1.27273 11.1364L 1.27273 1.59091L 0 1.59091L 0 11.1364L 1.27273 11.1364ZM 1.59091 11.4545C 1.41518 11.4545 1.27273 11.3121 1.27273 11.1364L 0 11.1364C 0 12.015 0.712274 12.7273 1.59091 12.7273L 1.59091 11.4545ZM 12.7273 11.1364C 12.7273 11.3121 12.5848 11.4545 12.4091 11.4545L 12.4091 12.7273C 13.2877 12.7273 14 12.015 14 11.1364L 12.7273 11.1364ZM 12.4091 1.27273C 12.5848 1.27273 12.7273 1.41518 12.7273 1.59091L 14 1.59091C 14 0.712274 13.2877 0 12.4091 0L 12.4091 1.27273ZM 1.59091 0C 0.712274 0 0 0.712274 0 1.59091L 1.27273 1.59091C 1.27273 1.41518 1.41518 1.27273 1.59091 1.27273L 1.59091 0Z"/>
+<path id="path1_fill" d="M 1.27273 0.636364C 1.27273 0.28491 0.987818 0 0.636364 0C 0.28491 0 0 0.28491 0 0.636364L 1.27273 0.636364ZM 0 3.18182C 0 3.53327 0.28491 3.81818 0.636364 3.81818C 0.987818 3.81818 1.27273 3.53327 1.27273 3.18182L 0 3.18182ZM 0 0.636364L 0 3.18182L 1.27273 3.18182L 1.27273 0.636364L 0 0.636364Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0.954545 1.90909C 1.48173 1.90909 1.90909 1.48173 1.90909 0.954545C 1.90909 0.427366 1.48173 0 0.954545 0C 0.427366 0 0 0.427366 0 0.954545C 0 1.48173 0.427366 1.90909 0.954545 1.90909Z"/>
+</defs>
+</svg>

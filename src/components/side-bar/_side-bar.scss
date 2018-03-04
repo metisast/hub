@@ -1,0 +1,42 @@
+.side-bar{
+
+}
+.side-bar__header{
+  height: 80px;
+  background-color: $color-dark-blue;
+  h1{
+    text-align: center;
+    color: $color-white;
+    padding-top: 15px;
+    margin-bottom: 0;
+  }
+}
+.side-bar__list{
+  ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    background-color: $color-blue;
+    li{
+      border-bottom: 1px dashed $color-orange;
+      padding: 25px 0;
+      margin: 0 30px;
+      &:last-child{
+        border-bottom: none;
+      }
+      img{
+        margin-right: 10px;
+        display: inline-block;
+        vertical-align: middle;
+      }
+      span{
+        width: 250px;
+        display: inline-block;
+        font-size: 16px;
+        color: $color-white;
+        text-transform: uppercase;
+        vertical-align: middle;
+      }
+    }
+  }
+}

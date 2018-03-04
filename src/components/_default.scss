@@ -1,0 +1,46 @@
+// Typography
+
+@include font-face($regular, '../fonts/Roboto-Regular/Roboto-Regular', 'Roboto-Regular');
+@include font-face($bold, '../fonts/Roboto-Bold/Roboto-Bold', 'Roboto-Bold');
+@include font-face($black, '../fonts/Roboto-Black/Roboto-Black', 'Roboto-Black');
+
+html{
+
+}
+body{
+  font-family: $regular;
+  margin: 0;
+  line-height: 1.1;
+}
+header,section,menu,nav,main,time{
+  display: block;
+}
+menu{
+  margin: 0;
+  padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-weight: normal;
+  font-family: $bold;
+  margin-top: 0;
+}
+h1{
+  font-size: 24px;
+  color: $color-dark-blue;
+  text-transform: uppercase;
+}
+h2{
+  color: $color-dark-blue;
+  text-transform: uppercase;
+}
+p{
+  margin-top: 0;
+}
+strong{
+  font-weight: normal;
+  font-family: $bold;
+}
+p,a,strong,span,time{
+  font-size: 14px;
+}

@@ -1,0 +1,9 @@
+.subscribe{
+  background: rgb(0, 128, 255) url('../images/letter.png') center no-repeat;
+  background-size: cover;
+  padding: 30px 0;
+  text-align: center;
+  h1{
+    color: $color-white;
+  }
+}
