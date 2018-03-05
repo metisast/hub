@@ -1,0 +1,20 @@
+<svg width="35" height="26" viewBox="0 0 35 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>menu-burger</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3934 494)">
+<g id="menu-burger">
+<g id="Line">
+<use xlink:href="#path0_stroke" transform="translate(3934 -490)" fill="#FFFFFF"/>
+</g>
+<g id="Line">
+<use xlink:href="#path0_stroke" transform="translate(3934 -479)" fill="#FFFFFF"/>
+</g>
+<g id="Line">
+<use xlink:href="#path0_stroke" transform="translate(3934 -468)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 2 -4C 0.895431 -4 0 -3.10457 0 -2C 0 -0.895431 0.895431 0 2 0L 2 -4ZM 33 0C 34.1046 0 35 -0.895431 35 -2C 35 -3.10457 34.1046 -4 33 -4L 33 0ZM 2 0L 33 0L 33 -4L 2 -4L 2 0Z"/>
+</defs>
+</svg>

@@ -4,6 +4,10 @@
 .media__video{
   height: 300px;
   background-color: $color-dark-blue;
+  @include respond-to(extra-small-screen){
+    height: 210px;
+    margin-bottom: 30px;
+  }
 }
 .media__gallery-item{
   overflow: hidden;

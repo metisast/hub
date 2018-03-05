@@ -3,6 +3,9 @@
 }
 .post-tiny__item{
   margin-bottom: 30px;
+  a{
+    text-decoration: none;
+  }
   time{
     color: $color-blue;
     margin-bottom: 12px;

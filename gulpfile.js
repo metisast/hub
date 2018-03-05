@@ -49,6 +49,10 @@ gulp.task('compressJS', function(cb){
 
 gulp.task('watch', function () {
 
+    gulp.start('sass');
+    gulp.start('concatCSS');
+    gulp.start('concatJS');
+
     watch('./src/**/*.scss', function () {
         gulp.start('sass');
     });
@@ -62,3 +66,5 @@ gulp.task('watch', function () {
     })
 
 });
+
+gulp.task('prod', ['compressCSS', 'compressJS']);

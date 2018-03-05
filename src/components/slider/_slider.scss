@@ -4,6 +4,9 @@
   background-color: $color-blue;
   position: relative;
   overflow: hidden;
+  @include respond-to(extra-small-screen) {
+    height: 250px;
+  }
 }
 .slider__desc{
   position: relative;
@@ -38,6 +41,17 @@
       top: 1px;
       margin-right: 10px;
       position: relative;
+    }
+  }
+  @include respond-to(extra-small-screen) {
+    h1{
+      text-align: left;
+      font-size: 16px;
+      bottom: 90px;
+    }
+    img{
+      width: auto;
+      height: 100%;
     }
   }
 }

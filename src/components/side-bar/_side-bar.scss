@@ -39,4 +39,13 @@
       }
     }
   }
+  @include respond-to(extra-small-screen){
+    ul{
+      li{
+        span{
+          width: 241px;
+        }
+      }
+    }
+  }
 }

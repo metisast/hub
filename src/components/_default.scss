@@ -44,3 +44,10 @@ strong{
 p,a,strong,span,time{
   font-size: 14px;
 }
+
+@include respond-to(extra-small-screen){
+  h1{
+    font-size: 20px;
+    text-align: center;
+  }
+}

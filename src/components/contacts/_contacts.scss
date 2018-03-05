@@ -1,9 +1,14 @@
 .contacts{
   padding: 35px 0;
   background-color: $color-aqua;
+  @include respond-to(extra-small-screen){
+    text-align: center;
+  }
 }
 .contacts__desc{
-
+  @include respond-to(extra-small-screen){
+    margin-bottom: 30px;
+  }
 }
 .contacts__social{
   ul{

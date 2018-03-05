@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prod": "gulp sass concatCSS compressCSS concatJS compressJS",
+    "prod": "gulp prod",
     "dev": "gulp watch"
   },
   "author": "Kurnossov Yevgeniy",
